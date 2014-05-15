@@ -210,8 +210,6 @@ var render = function () {
     }
 
     // Score
-    ctx.fillStyle = 'black';
-    ctx.fillRect(50, 50, 230, 50);
     ctx.fillStyle = "rgb(250, 250, 250)";
     ctx.font = "22px 'Ubuntu Mono'";
     ctx.textAlign = "left";
